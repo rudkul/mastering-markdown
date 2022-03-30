@@ -11,4 +11,4 @@ __GitHub__ and __Reddit__ mainly use markdown to style their word content.
 1. [Bold and Italics]()
 
 
-__None of this is my own content. This is just my interpretation of [The Markdown Tutorial](https://www.markdowntutorial.com/).
+__None of this is my own content. This is just my interpretation of [The Markdown Tutorial](https://www.markdowntutorial.com/).__
